@@ -1,11 +1,4 @@
-/*!
-	sbbg.test
- * accounting.js javascript library v0.1
- * https://github.com/josscrowcroft/accounting.js
- *
- * Copyright 2011 by Joss Crowcroft
- * Licensed under GPL v3 | http://www.gnu.org/licenses/gpl-3.0.txt
- */
+
 var accounting = (function () {
 	
 	/**
