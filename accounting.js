@@ -1,4 +1,5 @@
 /*!
+	sbbg.test
  * accounting.js javascript library v0.1
  * https://github.com/josscrowcroft/accounting.js
  *
